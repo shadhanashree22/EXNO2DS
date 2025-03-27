@@ -23,23 +23,25 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-       ![image](https://github.com/user-attachments/assets/cf7f9140-e9e7-4435-9e1c-b552f6aa71f5)
+
+ ![image](https://github.com/user-attachments/assets/cf7f9140-e9e7-4435-9e1c-b552f6aa71f5)
+
+ ![image](https://github.com/user-attachments/assets/fd98615e-642b-437c-8957-f33ed8c762fe)
 
 
-       ![image](https://github.com/user-attachments/assets/fd98615e-642b-437c-8957-f33ed8c762fe)
+![image](https://github.com/user-attachments/assets/859cf0df-a120-4de4-9779-18d3c36c879b)
+       
+
+![image](https://github.com/user-attachments/assets/bab60328-d345-4d7d-8f83-4b43255b9061)
 
 
-       ![image](https://github.com/user-attachments/assets/859cf0df-a120-4de4-9779-18d3c36c879b)
+![image](https://github.com/user-attachments/assets/eb750cba-4960-43fb-a0bd-c7498f949a70)
 
-       ![image](https://github.com/user-attachments/assets/bab60328-d345-4d7d-8f83-4b43255b9061)
-
-
-       ![image](https://github.com/user-attachments/assets/eb750cba-4960-43fb-a0bd-c7498f949a70)
-
-       ![image](https://github.com/user-attachments/assets/02a54ad1-8590-48ea-87a9-fc299516056d)
+       
+![image](https://github.com/user-attachments/assets/02a54ad1-8590-48ea-87a9-fc299516056d)
 
 
-       ![image](https://github.com/user-attachments/assets/f4031133-bf00-4bb8-a27b-80f01af23956)
+![image](https://github.com/user-attachments/assets/f4031133-bf00-4bb8-a27b-80f01af23956)
 
 
 ![image](https://github.com/user-attachments/assets/5f400ccc-0133-486b-a5e2-13ff58c6c430)
@@ -76,6 +78,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ![image](https://github.com/user-attachments/assets/0b20cb52-b715-42e8-a894-96e6adfee333)
 
+![image](https://github.com/user-attachments/assets/1f8f3840-3ad8-4645-8e19-2426f2a69204)
 
 
 # RESULT
